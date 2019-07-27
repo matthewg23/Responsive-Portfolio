@@ -63,6 +63,7 @@ body {
     overflow: auto;
     color: #ffffff;
     background: #ffffff;
+    border: #4aaaa5 1px;
   }
   
   #logo {
@@ -143,9 +144,6 @@ body {
     width: 240px;
     margin: 20px 20px;
     overflow: auto;
-  }
-  
-  .work:nth-child(even) {
     margin-right: 40px;
   }
   
