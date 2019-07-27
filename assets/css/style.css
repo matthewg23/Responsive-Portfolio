@@ -140,8 +140,8 @@ body {
   .work {
     position: relative;
     float: left;
-    width: 274px;
-    margin: 20px 0 25px;
+    width: 240px;
+    margin: 20px 20px;
     overflow: auto;
   }
   
@@ -151,6 +151,7 @@ body {
   
   .work img {
     width: 100%;
+    size: 240px 140px;
     border: 0 none;
     opacity: 0.8;
   }
