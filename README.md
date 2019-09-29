@@ -1,2 +1,5 @@
 # Responsive-Portfolio
-Basic portfolio with an added layer of responsiveness
+
+This is my portfolio site that showcases the work I have done in the UW Fullstack Web Development Bootcamp. 
+
+
